@@ -6,6 +6,9 @@ Tomas Nehuen Antomarioni Bevacqua
     el fork?   
         Respuesta: No, no se pierden, solo se actualiza a menos que se borren
 
-Tomas Agustin Baez
+Tomas Valentin Baez
+a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
+ 
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 
 Bruno Bulacio
