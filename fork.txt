@@ -1,3 +1,7 @@
+Nombre: Bruno
+Apellido: Bulacio
+IP: 192.168.1.39
+Hora: 11:48
 nombre: Tomas Baez
 hora: 11:58
 iP de la mquina:192.168.56.1
