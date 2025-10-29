@@ -1,4 +1,10 @@
 Tomas Nehuen Antomarioni Bevacqua
+    c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+        Respuesta: No ya que el fork lo hacen desde el repo de Beta
+
+    d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+    el fork?   
+        Respuesta: No, no se pierden, solo se actualiza a menos que se borren
 
 Tomas Agustin Baez
 
