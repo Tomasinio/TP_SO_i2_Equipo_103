@@ -9,3 +9,33 @@ Tomas Nehuen Antomarioni Bevacqua
 Tomas Agustin Baez
 
 Bruno Bulacio
+
+COMANDOS PARA REALIZAR ESTE TP
+
+TOMAS BAEZ
+git clone [URL en HTTPS]
+
++luego de modificar el archivo+
+
+git add .
+
+git commit -m "[mensaje]"
+
+git push
+
+
+BRUNO BULACIO
+git clone [URL en HTTPS]
+
++luego de modificar el archivo+
+
+git add .
+
+git commit -m "[mensaje]"
+
+git push
+
+TOMAS ANTOMARIONI
+git clone [URL en HTTPS]
+
++agrega el archive NuevoDato.txt
