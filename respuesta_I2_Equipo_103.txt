@@ -7,10 +7,43 @@ Tomas Nehuen Antomarioni Bevacqua
         Respuesta: No, no se pierden, solo se actualiza a menos que se borren
 
 Tomas Valentin Baez
+<<<<<<< HEAD
 a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
  Entrá a tu fork en GitHub,Arriba, al lado del botón Sync fork (o Actualizar fork), hacé clic.
 Elegí Update branch.
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 nopor que el ork lo hacen del estado de beta
+=======
+>>>>>>> 8840ff5fcf531db4b882df738e2cad19f1aad5da
 
 Bruno Bulacio
+
+COMANDOS PARA REALIZAR ESTE TP
+
+TOMAS BAEZ
+git clone [URL en HTTPS]
+
++luego de modificar el archivo+
+
+git add .
+
+git commit -m "[mensaje]"
+
+git push
+
+
+BRUNO BULACIO
+git clone [URL en HTTPS]
+
++luego de modificar el archivo+
+
+git add .
+
+git commit -m "[mensaje]"
+
+git push
+
+TOMAS ANTOMARIONI
+git clone [URL en HTTPS]
+
++agrega el archive NuevoDato.txt
