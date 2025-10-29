@@ -8,7 +8,9 @@ Tomas Nehuen Antomarioni Bevacqua
 
 Tomas Valentin Baez
 a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
- 
+ Entrá a tu fork en GitHub,Arriba, al lado del botón Sync fork (o Actualizar fork), hacé clic.
+Elegí Update branch.
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+nopor que el ork lo hacen del estado de beta
 
 Bruno Bulacio
